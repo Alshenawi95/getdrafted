@@ -1,5 +1,4 @@
 import { useState } from 'react';
-import '../styles/globals.css';
 
 const INITIAL_FORM = {
   name: '',
